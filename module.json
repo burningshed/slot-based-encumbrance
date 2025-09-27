@@ -25,7 +25,7 @@
   "esmodules": [
     "scripts/slot-based-encumbrance.js"
   ],
-  "manifest": "https://github.com/burningshed/slot-based-encumbrance/releases/download/v0.5.1/module.json",
-  "download": "https://github.com/burningshed/slot-based-encumbrance/releases/download/v0.5.1/module.zip",
+  "manifest": "https://github.com/burningshed/slot-based-encumbrance/releases/download/test/module.json",
+  "download": "https://github.com/burningshed/slot-based-encumbrance/releases/download/test/module.zip",
   "id": "slot-based-encumbrance"
 }
