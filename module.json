@@ -13,18 +13,6 @@
     "verified": "10.291"
   },
   "relationships": {
-    "systems": [
-      {
-        "id": "ose",
-        "type": "system",
-        "compatibility": {}
-      },
-      {
-        "id": "ose-dev",
-        "type": "system",
-        "compatibility": {}
-      }
-    ]
   },
   "languages": [
     {
@@ -37,7 +25,7 @@
   "esmodules": [
     "scripts/slot-based-encumbrance.js"
   ],
-  "manifest": "https://github.com/eegag/slot-based-encumbrance/releases/download/v0.5.1/module.json",
-  "download": "https://github.com/eegag/slot-based-encumbrance/releases/download/v0.5.1/module.zip",
+  "manifest": "https://github.com/burningshed/slot-based-encumbrance/releases/download/v0.5.1/module.json",
+  "download": "https://github.com/burningshed/slot-based-encumbrance/releases/download/v0.5.1/module.zip",
   "id": "slot-based-encumbrance"
 }
